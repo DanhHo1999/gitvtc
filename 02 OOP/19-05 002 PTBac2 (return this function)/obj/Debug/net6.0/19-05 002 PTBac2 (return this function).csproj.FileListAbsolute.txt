@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\bin\Debug\net6.0\19-05 002 PTBac2 (return this function).exe
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\bin\Debug\net6.0\19-05 002 PTBac2 (return this function).deps.json
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\bin\Debug\net6.0\19-05 002 PTBac2 (return this function).runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\bin\Debug\net6.0\19-05 002 PTBac2 (return this function).dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\bin\Debug\net6.0\19-05 002 PTBac2 (return this function).pdb
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\refint\19-05 002 PTBac2 (return this function).dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).pdb
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\19-05 002 PTBac2 (return this function).genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 002 PTBac2 (return this function)\obj\Debug\net6.0\ref\19-05 002 PTBac2 (return this function).dll
