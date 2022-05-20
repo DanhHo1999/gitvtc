@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\bin\Debug\net6.0\19-05 001 PTBac2.exe
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\bin\Debug\net6.0\19-05 001 PTBac2.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\bin\Debug\net6.0\19-05 001 PTBac2.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\bin\Debug\net6.0\19-05 001 PTBac2.dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\bin\Debug\net6.0\19-05 001 PTBac2.pdb
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\refint\19-05 001 PTBac2.dll
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.pdb
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\19-05 001 PTBac2.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\19-05 001 PTBac2\obj\Debug\net6.0\ref\19-05 001 PTBac2.dll
