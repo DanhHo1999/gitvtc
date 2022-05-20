@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\bin\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.exe
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\bin\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.deps.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\bin\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.runtimeconfig.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\bin\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\bin\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\refint\14-05-003-Lab02-Bai2DSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\14-05-003-Lab02-Bai2DSLK.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-003-Lab02-Bai2DSLK\obj\Debug\net6.0\ref\14-05-003-Lab02-Bai2DSLK.dll

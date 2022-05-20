@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\bin\Debug\net6.0\12-05-003-BaiTapDSLK.exe
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\bin\Debug\net6.0\12-05-003-BaiTapDSLK.deps.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\bin\Debug\net6.0\12-05-003-BaiTapDSLK.runtimeconfig.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\bin\Debug\net6.0\12-05-003-BaiTapDSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\bin\Debug\net6.0\12-05-003-BaiTapDSLK.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\refint\12-05-003-BaiTapDSLK.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\12-05-003-BaiTapDSLK.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-003-BaiTapDSLK\obj\Debug\net6.0\ref\12-05-003-BaiTapDSLK.dll

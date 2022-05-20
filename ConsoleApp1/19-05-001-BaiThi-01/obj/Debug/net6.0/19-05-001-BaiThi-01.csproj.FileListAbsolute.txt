@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\bin\Debug\net6.0\19-05-001-BaiThi-01.exe
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\bin\Debug\net6.0\19-05-001-BaiThi-01.deps.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\bin\Debug\net6.0\19-05-001-BaiThi-01.runtimeconfig.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\bin\Debug\net6.0\19-05-001-BaiThi-01.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\bin\Debug\net6.0\19-05-001-BaiThi-01.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\refint\19-05-001-BaiThi-01.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\19-05-001-BaiThi-01.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\19-05-001-BaiThi-01\obj\Debug\net6.0\ref\19-05-001-BaiThi-01.dll

@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\bin\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.exe
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\bin\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.deps.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\bin\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.runtimeconfig.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\bin\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\bin\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\refint\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le\obj\Debug\net6.0\ref\14-05-002-Tao DSLK 5p InDs, TimKiem, In chan, In le.dll

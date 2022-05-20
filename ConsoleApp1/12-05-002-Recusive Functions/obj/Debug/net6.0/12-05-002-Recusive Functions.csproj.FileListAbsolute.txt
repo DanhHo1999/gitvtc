@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\bin\Debug\net6.0\12-05-002-Recusive Functions.exe
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\bin\Debug\net6.0\12-05-002-Recusive Functions.deps.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\bin\Debug\net6.0\12-05-002-Recusive Functions.runtimeconfig.json
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\bin\Debug\net6.0\12-05-002-Recusive Functions.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\bin\Debug\net6.0\12-05-002-Recusive Functions.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\refint\12-05-002-Recusive Functions.dll
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.pdb
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\12-05-002-Recusive Functions.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\ConsoleApp1\12-05-002-Recusive Functions\obj\Debug\net6.0\ref\12-05-002-Recusive Functions.dll
