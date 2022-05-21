@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\bin\Debug\net6.0\21-05 003 Inheritance.exe
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\bin\Debug\net6.0\21-05 003 Inheritance.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\bin\Debug\net6.0\21-05 003 Inheritance.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\bin\Debug\net6.0\21-05 003 Inheritance.dll
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\bin\Debug\net6.0\21-05 003 Inheritance.pdb
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.dll
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\refint\21-05 003 Inheritance.dll
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.pdb
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\21-05 003 Inheritance.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\21-05 003 Inheritance\obj\Debug\net6.0\ref\21-05 003 Inheritance.dll
