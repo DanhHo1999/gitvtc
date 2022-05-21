@@ -16,7 +16,7 @@
             A a = new A();
             Console.WriteLine(a.getID());
 
-            B b = new B();
+            B b = new B(); 
             Console.WriteLine(b.getID());
 
         }
