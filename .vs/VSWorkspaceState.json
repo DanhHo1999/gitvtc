@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01 Data Structure"
+    "\\01 Data Structure",
+    "\\02 OOP",
+    "\\02 OOP\\19-05 001 PTBac2"
   ],
-  "SelectedNode": "\\01 Data Structure\\01-Data Structure.sln",
+  "SelectedNode": "\\02 OOP\\19-05 001 PTBac2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
