@@ -44,18 +44,23 @@ namespace AAA
         }
         public float ChuVi() {
             
-            return (a + b + c) /2;
+            return a + b + c;
         }
         public double DienTich()
         {
             if (IsTriangle())
-                return Math.Sqrt(ChuVi() * (ChuVi() - a) * (ChuVi() - b) * (ChuVi() - c));
+            {
+                double p = (a + b + c) / 2;
+                return Math.Sqrt(p * (p - a) * (p - b) * (p - c)); }
+                
             else
-                return 0;
+            {
+                return 0; }
+                
         }
 
         public string toString() {
-            return String.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4}; S = {5}", a, b, c, TriangleType(), ChuVi(), DienTich());
+            return String.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4:N2}; S = {5:N2}", a, b, c, TriangleType(), ChuVi(), DienTich());
         }
 
     }
