@@ -50,9 +50,10 @@ namespace AAA
         {
             if (IsTriangle())
             {
-                double p = ((double)a + b + c) / 2;
-                return Math.Sqrt(p * (p - a) * (p - b) * (p - c)); }
-                
+                double p = ((double)a + (double)b + (double)c) / 2;
+                return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+            }
+
             else
             {
                 return 0; }
