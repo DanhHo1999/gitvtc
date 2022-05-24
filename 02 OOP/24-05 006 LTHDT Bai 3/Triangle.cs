@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AAA
 {
-    internal class TamGiac
+    internal class Triangle
     {
         int a, b, c;
-        public TamGiac() { }
-        public TamGiac(int a, int b, int c)
+        public Triangle() { }
+        public Triangle(int a, int b, int c)
         {
             if (a + b > c && a + c > b && b + c > a)
             {
@@ -31,16 +31,16 @@ namespace AAA
         public void setA(int a) { if (a > 0) this.a = a; }
         public void setB(int a) { if (b > 0) this.b = a; }
         public void setC(int a) { if (c > 0) this.c = a; }
-        private bool IsRectangle() {
+        private bool IsTriangle() {
             return a + b > c && a + c < b && b + c > a;
         }
-        public string RectangleType() {
+        public string TriangleType() {
             if (a == b && b == c&&a>0) return "Deu";
             if (a == b) return "Can";
             if (b == c) return "Can";
             if (a == c) return "Can";
-            if (IsRectangle()) return "Thuong";
-            else return "Not Rectangle";
+            if (IsTriangle()) return "Thuong";
+            else return "Not Triangle";
         }
         public float ChuVi() {
             
@@ -48,14 +48,14 @@ namespace AAA
         }
         public double DienTich()
         {
-            if (IsRectangle())
+            if (IsTriangle())
                 return Math.Sqrt(ChuVi() * (ChuVi() - a) * (ChuVi() - b) * (ChuVi() - c));
             else
                 return 0;
         }
 
         public string toString() {
-            return String.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4}; S = {5}", a, b, c, RectangleType(), ChuVi(), DienTich());
+            return String.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4}; S = {5}", a, b, c, TriangleType(), ChuVi(), DienTich());
         }
 
     }
