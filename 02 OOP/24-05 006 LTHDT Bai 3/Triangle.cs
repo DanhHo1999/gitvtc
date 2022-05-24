@@ -32,14 +32,14 @@ namespace AAA
         public void setB(int a) { if (b > 0) this.b = a; }
         public void setC(int a) { if (c > 0) this.c = a; }
         private bool IsTriangle() {
-            return a + b > c && a + c < b && b + c > a;
+            return (a + b) > c && (a + c) > b && (b + c) > a;
         }
         public string TriangleType() {
-            if (a == b && b == c&&a>0) return "Deu";
-            if (a == b) return "Can";
-            if (b == c) return "Can";
-            if (a == c) return "Can";
-            if (IsTriangle()) return "Thuong";
+            if (a == b && b == c&&a>0) return "Tam Giac' Deu`";
+            if (a == b && a > 0) return "Tam Giac Can^";
+            if (b == c && a > 0) return "Tam Giac Can^";
+            if (a == c && a > 0) return "Tam Giac Can^";
+            if (IsTriangle()) return "Tam Giac Thuong`";
             else return "Not Triangle";
         }
         public float ChuVi() {
