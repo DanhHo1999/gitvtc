@@ -6,10 +6,7 @@
             private int id;
             private string name;
             private float TH, LT;
-            public SinhVien(int _id, string _name) { 
-                id = _id;
-                name = _name;
-            }
+            public SinhVien() { }
             public SinhVien(int _id, string _name,float _TH, float _LT)
             {
                 id = _id;
@@ -43,15 +40,24 @@
             }
             public String toString()
             {
-                String str = String.Format("Id : {0} | Name : {1} | LT : {2} | TH : {3} | TB : {4}", id, name, LT, TH, (LT + TH) / 2);
+                String str = String.Format("Id : {0}    |    Name : {1}    |    LT : {2}    |    TH : {3}    |    TB : {4}", id, name, LT, TH, (LT + TH) / 2);
                 return str;
             }
 
         }
         static void Main(string[] args)
         {
-            SinhVien sv = new SinhVien(1, "Danh", 5, 8);
-            Console.WriteLine(sv.toString());
+            SinhVien sv1 = new SinhVien(1, "Danh", 5, 8);
+            SinhVien sv2 = new SinhVien(2, "Phong", 7, 6);
+            SinhVien sv3 = new SinhVien();
+            sv3.SetID(3);
+            Console.Write("Name = "); sv3.SetName(Console.ReadLine());
+            Console.Write("LT = "); sv3.SetLT(Convert.ToInt32(Console.ReadLine()));
+            Console.Write("TH = "); sv3.SetTH(Convert.ToInt32(Console.ReadLine()));
+
+            Console.WriteLine(sv1.toString());
+            Console.WriteLine(sv2.toString());
+            Console.WriteLine(sv3.toString());
         }
     }
 }
