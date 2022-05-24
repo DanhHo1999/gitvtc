@@ -24,7 +24,7 @@ namespace AAA
         {
             if (delta < 0)
             {
-                Console.WriteLine("PTVN"); return;
+                Console.WriteLine("PTVN");
             }
             else if (delta == 0)
             {
@@ -39,6 +39,7 @@ namespace AAA
 
                 Console.WriteLine("Nghiem Phan Biet: X1 = " + N1 + ",   X2 = " + N2 + "\n");
             }
+            
         }
 
 
