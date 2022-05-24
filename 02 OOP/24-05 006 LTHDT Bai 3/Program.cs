@@ -1,9 +1,12 @@
 ﻿namespace AAA {
     class Program {
 
-        static void Main(string[] args) { 
-            Rectangle a = new Rectangle(3,4,5);
-            Console.WriteLine(a.toString());
+        static void Main(string[] args) {
+            Console.WriteLine((new TamGiac(3,4,5).toString()));
+            Console.WriteLine((new TamGiac(0,4,5).toString()));
+            Console.WriteLine((new TamGiac(-3,4,5).toString()));
+            Console.WriteLine((new TamGiac(8,4,5).toString()));
+            Console.WriteLine((new TamGiac(83,4,5).toString()));
         }
     }
 }

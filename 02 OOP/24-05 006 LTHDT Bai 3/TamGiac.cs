@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace AAA
 {
-    internal class Rectangle
+    internal class TamGiac
     {
         int a, b, c;
-        public Rectangle() { }
-        public Rectangle(int a, int b, int c)
+        public TamGiac() { }
+        public TamGiac(int a, int b, int c)
         {
             if (a + b > c && a + c > b && b + c > a)
             {
@@ -35,7 +35,7 @@ namespace AAA
             return a + b > c && a + c < b && b + c > a;
         }
         public string RectangleType() {
-            if (a == b && b == c) return "Deu";
+            if (a == b && b == c&&a>0) return "Deu";
             if (a == b) return "Can";
             if (b == c) return "Can";
             if (a == c) return "Can";

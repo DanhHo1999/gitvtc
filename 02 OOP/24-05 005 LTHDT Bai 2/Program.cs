@@ -14,9 +14,12 @@
                 TH = _TH;
                 LT = _LT;
             }
-            public void SetID(int _id) {
+            public SinhVien SetID(int _id) {
                 id = _id;    
+                return this;
             }
+            
+
             public void SetName(string name) {
                 this.name = name;
             }
@@ -47,20 +50,9 @@
         }
         static void Main(string[] args)
         {
-            SinhVien sv1 = new SinhVien(1, "Danh", 5, 8);
-            SinhVien sv2 = new SinhVien(2, "Phong", 7, 6);
-
-
-            SinhVien sv3 = new SinhVien();
-            sv3.SetID(3);
-            Console.Write("Name = "); sv3.SetName(Console.ReadLine());
-            Console.Write("LT = "); sv3.SetLT(Convert.ToInt32(Console.ReadLine()));
-            Console.Write("TH = "); sv3.SetTH(Convert.ToInt32(Console.ReadLine()));
-
             
-            Console.WriteLine(sv1.toString());
-            Console.WriteLine(sv2.toString());
-            Console.WriteLine(sv3.toString());
+            SinhVien sv3 = new SinhVien();
+            sv3.SetID(3).SetID(4).SetName("AAA");
         }
     }
 }

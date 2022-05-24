@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\bin\Debug\net6.0\24-05 007 Vidu.exe
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\bin\Debug\net6.0\24-05 007 Vidu.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\bin\Debug\net6.0\24-05 007 Vidu.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\bin\Debug\net6.0\24-05 007 Vidu.dll
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\bin\Debug\net6.0\24-05 007 Vidu.pdb
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.dll
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\refint\24-05 007 Vidu.dll
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.pdb
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\24-05 007 Vidu.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\24-05 007 Vidu\obj\Debug\net6.0\ref\24-05 007 Vidu.dll
