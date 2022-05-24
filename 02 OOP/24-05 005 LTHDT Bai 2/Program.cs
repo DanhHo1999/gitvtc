@@ -41,15 +41,17 @@
             public float GetTH() {
                 return TH;
             }
-            public String ToString() {
-                String str = "";
+            public String toString()
+            {
+                String str = String.Format("Id : {0} | Name : {1} | LT : {2} | TH : {3} | TB : {4}", id, name, LT, TH, (LT + TH) / 2);
                 return str;
             }
 
         }
         static void Main(string[] args)
         {
-            
+            SinhVien sv = new SinhVien(1, "Danh", 5, 8);
+            Console.WriteLine(sv.toString());
         }
     }
 }
