@@ -8,7 +8,7 @@ namespace AAA
 {
     internal class Triangle
     {
-        int a, b, c;
+        private int a, b, c;
         public Triangle() { }
         public Triangle(int a, int b, int c)
         {
