@@ -40,7 +40,7 @@
             }
             public String toString()
             {
-                String str = String.Format("Id : {0}    |    Name : {1,10}    |    LT : {2}    |    TH : {3}    |    TB : {4,3}", id, name, LT, TH, (LT + TH) / 2);
+                String str = String.Format("Id : {0}    |    Name : {1,10}    |    LT : {2}    |    TH : {3}    |    TB : {4,5:N2}", id, name, LT, TH, (LT + TH) / 2);
                 return str;
             }
 
