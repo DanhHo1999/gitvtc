@@ -37,44 +37,47 @@ namespace _25_05_010_LTHDT_Bai_6
             SetAccountNumber(_accountNumber);
             SetName(_name);
             SetBalance(0);
-            Show();
+            ToString();
         }
         public Account(string _name,long _accountNumber,double _balance)
         {
             SetAccountNumber(_accountNumber);
             SetName(_name);
             SetBalance(_balance);
-            Show();
+            ToString();
         }
         public bool Deposit(double _amount)
         {
             if (_amount <= 0) return false;
             balance += _amount;
-            Console.WriteLine("\nDeposited : "+_amount+" to "+accountNumber);
-            Show();
+            Console.WriteLine("\nDeposited : "+_amount+" to "+ name);
+            
             return true;
         }
         public bool Withdraw(double _amount,double _fee) {
             if (_amount + _fee > balance) return false;
             balance -= _amount + _fee;
-            Console.WriteLine("\nWithdrawed : " + _amount + " from " + accountNumber);
-            Show();
+            Console.WriteLine("\nWithdrawed : " + _amount + " from " + name);
+            
             return true;
         }
         public void AddInterest() {
-            Console.WriteLine("\n"+accountNumber+" : Interest : "+(balance + RATE));
+            Console.WriteLine("\n"+ name + " : Interest : "+Math.Round((balance * RATE),2)+"\n");
             balance += balance * RATE;
+            
 
         }
         public bool Transfer(ref Account account2,double _amount) {
-            if (account2.balance >= _amount) {
-                account2.balance -= _amount;
-                balance += _amount;
+            if (balance >= _amount) {
+                balance -= _amount;
+                account2.balance += _amount;
+                Console.WriteLine(String.Format("{0} transfered {1} to {2}\n", name, _amount,account2.name));
                 return true;
             }
+            Console.WriteLine("Can't transfer");
             return false;
         }
-        public void Show() {
+        public void ToString() {
             Console.WriteLine(String.Format("{0,10} | {1,20} | {2,15:#,##0.00}", accountNumber, name, balance)); 
         }
     }

@@ -10,11 +10,19 @@
             acc2.Deposit(500);
             acc2.Withdraw(430.75, 1.5);
             acc3.AddInterest();
+            acc1.ToString();
+            acc2.ToString();
+            acc3.ToString();
 
-            acc1.Show();
-            acc2.Show();
-            acc3.Show();
 
+            acc2.Transfer(ref acc1, 100);
+            acc2.Transfer(ref acc1, 100);
+            acc2.Transfer(ref acc1, 100);
+            acc2.Transfer(ref acc1, 100);
+            acc2.Transfer(ref acc1, 100);
+            acc2.Transfer(ref acc1, 100);
+            acc1.ToString();
+            acc2.ToString();
 
         }
     }
