@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\bin\Debug\net6.0\25-05 010 LTHDT Bai 6.exe
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\bin\Debug\net6.0\25-05 010 LTHDT Bai 6.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\bin\Debug\net6.0\25-05 010 LTHDT Bai 6.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\bin\Debug\net6.0\25-05 010 LTHDT Bai 6.dll
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\bin\Debug\net6.0\25-05 010 LTHDT Bai 6.pdb
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.dll
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\refint\25-05 010 LTHDT Bai 6.dll
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.pdb
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\25-05 010 LTHDT Bai 6.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\25-05 010 LTHDT Bai 6\obj\Debug\net6.0\ref\25-05 010 LTHDT Bai 6.dll
