@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
+            
+            
             HangThucPham.SetToday(2018, 6, 1);
-            Console.WriteLine(String.Format("{0,4} | {1,8} | {2,15} | {3,10} | {4,10} | {5}\n",
+            Console.WriteLine(String.Format("{0,4} | {1,8} | {2,20} | {3,10} | {4,10} | {5}\n",
                 "ID", "Name", "Price", "NSX", "HSD", "Kiem Tra"));
 
 
@@ -36,7 +38,15 @@
             Console.WriteLine(nuoc.ToString());
 
 
-            Console.WriteLine(5 > 3);
+            HangThucPham traSua = new HangThucPham(4, "Tra Sua", 50000);
+            traSua.SetNsx(2022, 1, 1); // -> Fail: NSX>Today -> NSX = Today(default) = 1/6/2018
+            traSua.SetHsd(2022, 2, 1);
+            Console.WriteLine(traSua.ToString());
+
+            HangThucPham miCay = new HangThucPham(5, "Mi Cay", 1000000);
+            miCay.SetNsx(2018, 2, 2);
+            miCay.SetHsd(2017, 1, 1); // -> Fail : HSD < NSX -> HSD = NSX
+            Console.WriteLine(miCay.ToString());
         }
     }
 }
