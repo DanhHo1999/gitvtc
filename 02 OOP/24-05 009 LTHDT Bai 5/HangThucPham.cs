@@ -112,7 +112,7 @@ namespace _24_05_009_LTHDT_Bai_5
 
         public string ToString()
         {
-            String str = String.Format("{0,4:000} | {1,8} | {2,20:#,###00.00 VND} | {3,10:dd/MM/yyyy} | {4,10:dd/MM/yyyy} | {5}",
+            String str = String.Format("{0,4:000} | {1,8} | {2,20:#,###00.00 VND} | {3,10:d/M/yyyy} | {4,10:d/M/yyyy} | {5}",
                 id, name, price, nsx, hsd, checkHsd() ? "Chua het han" : "Da het han");
             return str;
             

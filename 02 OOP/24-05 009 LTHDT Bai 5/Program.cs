@@ -7,8 +7,12 @@
             
             
             HangThucPham.SetToday(2018, 6, 1);
+            Console.WriteLine(String.Format("{0,4}   {1,8}   {2,20}   {3,10} : {4,10}   {5}\n",
+                "", "", "", "Today", HangThucPham.today.ToString("d/M/yyyy"), ""));
+
             Console.WriteLine(String.Format("{0,4} | {1,8} | {2,20} | {3,10} | {4,10} | {5}\n",
                 "ID", "Name", "Price", "NSX", "HSD", "Kiem Tra"));
+            
 
 
 
