@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "25-05 011 LTHDT Bai 7/1.0.0": {
+        "runtime": {
+          "25-05 011 LTHDT Bai 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25-05 011 LTHDT Bai 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
