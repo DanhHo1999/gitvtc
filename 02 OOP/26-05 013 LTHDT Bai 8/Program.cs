@@ -23,8 +23,6 @@
 
             list.DefaultSort().toString();
 
-            
-            
         }
     }
 }
