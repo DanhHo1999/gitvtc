@@ -19,6 +19,7 @@ namespace _26_05_013_LTHDT_Bai_8
         public CD setName(string _name) {
             if (_name == "" || _name == null)
                 name = "Chua xac dinh";
+            else name= _name;
                 return this;
         }
         public int getId() {return id;}
