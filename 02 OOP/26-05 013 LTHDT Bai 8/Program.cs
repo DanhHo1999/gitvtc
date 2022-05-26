@@ -15,13 +15,13 @@
 
             Console.WriteLine("Total Price: "+list.TotalPrice().ToString("#,###0.00 VND")+"\n\n");
 
-            list.ToString();
+            list.toString();
 
-            list.PriceDescending().ToString();
+            list.PriceDescending().toString();
 
-            list.NameAscending().ToString();
+            list.NameAscending().toString();
 
-            list.DefaultSort().ToString();
+            list.DefaultSort().toString();
 
             
             
