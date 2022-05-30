@@ -9,11 +9,11 @@ namespace _26_05_013_LTHDT_Bai_8
 
     internal class CDList
     {
-        int cdNum = 0; int max;
+        int cdNum = 0; 
         public CD[] cd;
         public CDList(int _size)
         {
-            cd = new CD[_size]; max = _size;
+            cd = new CD[_size]; 
 
         }
         public bool checkExistedID(CD _cd)
@@ -28,7 +28,7 @@ namespace _26_05_013_LTHDT_Bai_8
         public int GetCDNum() { return cdNum; }
         public bool IsMax()
         {
-            return cdNum >= max;
+            return cdNum >= cd.Length;
         }
         public void AddCD(CD _cd)
         {

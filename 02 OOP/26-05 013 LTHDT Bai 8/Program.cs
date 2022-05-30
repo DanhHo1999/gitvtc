@@ -8,6 +8,7 @@
             list.AddCD(new CD(3, "AA", 5, 200000));
             list.AddCD(new CD(4, "BB", 2, 20000));
             list.AddCD(new CD(5, "EE", 6, 100000));
+            list.AddCD(new CD(6, "EE", 6, 100000));
             
 
             
