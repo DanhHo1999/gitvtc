@@ -1,5 +1,7 @@
-﻿namespace AAA {
-    class Program {
+﻿namespace _24_05_004_LTHDT_Bai_1
+{
+    class Program
+    {
         public class ToaDo
         {
             private int x;
@@ -14,14 +16,16 @@
             public int getY() { return y; }
             public void setX(int x) { this.x = x; }
             public void setY(int y) { this.y = y; }
-            public String toString() {
-                String str = "X : " + x + ", Y : " + y;
+            public string toString()
+            {
+                string str = "X : " + x + ", Y : " + y;
                 return str;
             }
 
         }
-        static void Main(string[] args) { 
-            ToaDo toaDo = new ToaDo(3,8);
+        static void Main(string[] args)
+        {
+            ToaDo toaDo = new ToaDo(3, 8);
             Console.WriteLine(toaDo.toString());
         }
     }

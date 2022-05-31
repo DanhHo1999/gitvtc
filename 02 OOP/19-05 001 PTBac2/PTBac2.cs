@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AAA
+namespace _19_05_001_PTBac2
 {
     public class PTBac2
     {
@@ -18,7 +18,7 @@ namespace AAA
             A = _A;
             B = _B;
             C = _C;
-            Console.Write(String.Format("Giai Phuong Trinh Bac 2  |  {0}*X*X + {1}*X + {2} = 0  |  ", A, B, C));
+            Console.Write(string.Format("Giai Phuong Trinh Bac 2  |  {0}*X*X + {1}*X + {2} = 0  |  ", A, B, C));
         }
         public void GiaiPhuongTrinh()
         {
@@ -39,7 +39,7 @@ namespace AAA
 
                 Console.WriteLine("Nghiem Phan Biet: X1 = " + N1 + ",   X2 = " + N2 + "\n");
             }
-            
+
         }
 
 

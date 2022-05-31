@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "30-05 016 LTHDT Case Study Using ArrayList/1.0.0": {
+        "runtime": {
+          "30-05 016 LTHDT Case Study Using ArrayList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30-05 016 LTHDT Case Study Using ArrayList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

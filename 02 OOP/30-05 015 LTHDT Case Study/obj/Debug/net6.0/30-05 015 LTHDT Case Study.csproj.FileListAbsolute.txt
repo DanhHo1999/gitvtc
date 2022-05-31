@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\bin\Debug\net6.0\30-05 015 LTHDT Case Study.exe
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\bin\Debug\net6.0\30-05 015 LTHDT Case Study.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\bin\Debug\net6.0\30-05 015 LTHDT Case Study.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\bin\Debug\net6.0\30-05 015 LTHDT Case Study.dll
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\bin\Debug\net6.0\30-05 015 LTHDT Case Study.pdb
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.dll
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\refint\30-05 015 LTHDT Case Study.dll
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.pdb
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\30-05 015 LTHDT Case Study.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\30-05 015 LTHDT Case Study\obj\Debug\net6.0\ref\30-05 015 LTHDT Case Study.dll

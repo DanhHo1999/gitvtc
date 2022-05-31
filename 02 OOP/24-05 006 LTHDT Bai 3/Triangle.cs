@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AAA
+namespace _24_05_006_LTHDT_Bai_3
 {
     internal class Triangle
     {
@@ -29,39 +29,44 @@ namespace AAA
         public int getB() { return b; }
         public int getC() { return c; }
         public void setA(int a) { if (a > 0) this.a = a; }
-        public void setB(int a) { if (b > 0) this.b = a; }
-        public void setC(int a) { if (c > 0) this.c = a; }
-        private bool IsTriangle() {
-            return (a + b) > c && (a + c) > b && (b + c) > a;
+        public void setB(int a) { if (b > 0) b = a; }
+        public void setC(int a) { if (c > 0) c = a; }
+        private bool IsTriangle()
+        {
+            return a + b > c && a + c > b && b + c > a;
         }
-        public string TriangleType() {
-            if (a == b && b == c&&a>0) return "Tam Giac' Deu`";
+        public string TriangleType()
+        {
+            if (a == b && b == c && a > 0) return "Tam Giac' Deu`";
             if (a == b && a > 0) return "Tam Giac Can^";
             if (b == c && a > 0) return "Tam Giac Can^";
             if (a == c && a > 0) return "Tam Giac Can^";
             if (IsTriangle()) return "Tam Giac Thuong`";
             else return "Not Triangle";
         }
-        public float ChuVi() {
-            
+        public float ChuVi()
+        {
+
             return a + b + c;
         }
         public double DienTich()
         {
             if (IsTriangle())
             {
-                double p = ((double)a + (double)b + (double)c) / 2;
+                double p = (a + (double)b + c) / 2;
                 return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
             }
 
             else
             {
-                return 0; }
-                
+                return 0;
+            }
+
         }
 
-        public string toString() {
-            return String.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4}; S = {5:N2}", a, b, c, TriangleType(), ChuVi(), DienTich());
+        public string toString()
+        {
+            return string.Format("a = {0}; b = {1}; c = {2}; Kieu : {3}; P = {4}; S = {5:N2}", a, b, c, TriangleType(), ChuVi(), DienTich());
         }
 
     }

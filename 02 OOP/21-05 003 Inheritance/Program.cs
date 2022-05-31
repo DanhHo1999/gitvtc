@@ -1,22 +1,28 @@
-﻿namespace AAA {
-    class Program {
-        public class A {
+﻿namespace _21_05_003_Inheritance
+{
+    class Program
+    {
+        public class A
+        {
             private int id = 5;
-            public int getID() { 
+            public int getID()
+            {
                 return id;
             }
 
         }
-        public class B : A {
-            
+        public class B : A
+        {
+
         }
 
-        static void Main(string[] args) { 
+        static void Main(string[] args)
+        {
 
             A a = new A();
             Console.WriteLine(a.getID());
 
-            B b = new B(); 
+            B b = new B();
             Console.WriteLine(b.getID());
 
         }

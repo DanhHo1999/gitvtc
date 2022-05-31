@@ -1,9 +1,13 @@
-﻿namespace AAA {
-    class Program {
-        public class ToaDo{
+﻿namespace _24_05_007_Vidu
+{
+    class Program
+    {
+        public class ToaDo
+        {
             int x;
             int y;
-            public ToaDo(){ 
+            public ToaDo()
+            {
 
             }
             public ToaDo SetX(int _x)
@@ -22,9 +26,10 @@
                 return this;
             }
         }
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
 
-            
+
 
         }
     }
