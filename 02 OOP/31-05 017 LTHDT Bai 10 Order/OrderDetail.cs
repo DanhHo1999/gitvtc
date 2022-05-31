@@ -23,7 +23,7 @@ namespace _31_05_017_LTHDT_Bai_10_Order
             return quatity * product.GetPrice();
         }
         public string ToString() {
-            return String.Format("{0} | {1,3} | {2,15:#,##0.00}",product.ToString(),quatity,CalcTotalPrice());
+            return String.Format("{0} | {1,3} | {2,15:#,##0.00} VND",product.ToString(),quatity,CalcTotalPrice());
         }
     }
 }

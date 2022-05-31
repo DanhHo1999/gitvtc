@@ -37,9 +37,9 @@ namespace _31_05_017_LTHDT_Bai_10_Order
         public string ToString() {
             string str = "Ma HD " +id;
             str += "\nNgay lap hoa don: "+ orderDate+"\n";
-            str += String.Format("{0,3} | {1,10}| {2,15:#,##0.00} | {3,3} | {4,15:#,##0.00}\n","ID","Description","Price","Qty","Total");
+            str += String.Format("{0,3} | {1,10}| {2,15:#,##0.00} | {3,3} | {4,19:#,##0.00}\n","ID","Description","Price","Qty","Total");
             for (int i = 0; i < count; i++) str += String.Format(lineItems[i].ToString()+"\n");
-            str +=String.Format("Total Charge: {0,15:#,##0.00}",CalcTotalCharge());
+            str +=String.Format("Total Charge: {0,15:#,##0.00} VND",CalcTotalCharge());
             return str;
         }
     }
