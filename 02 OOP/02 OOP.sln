@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-05 015 LTHDT Case Study"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-05 016 LTHDT Case Study Using ArrayList", "30-05 016 LTHDT Case Study Using ArrayList\30-05 016 LTHDT Case Study Using ArrayList.csproj", "{0B5074FC-EDEE-4D2D-8A48-56F99341264A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-05 017 LTHDT Bai 10 Order", "31-05 017 LTHDT Bai 10 Order\31-05 017 LTHDT Bai 10 Order.csproj", "{6E2F802F-9678-4A4D-8CA2-DA654ADA1EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{0B5074FC-EDEE-4D2D-8A48-56F99341264A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5074FC-EDEE-4D2D-8A48-56F99341264A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5074FC-EDEE-4D2D-8A48-56F99341264A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2F802F-9678-4A4D-8CA2-DA654ADA1EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2F802F-9678-4A4D-8CA2-DA654ADA1EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2F802F-9678-4A4D-8CA2-DA654ADA1EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2F802F-9678-4A4D-8CA2-DA654ADA1EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
