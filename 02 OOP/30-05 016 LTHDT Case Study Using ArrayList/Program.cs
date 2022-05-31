@@ -21,7 +21,7 @@
                         danhSach.print();
                         break;
                     case 2:
-                        danhSach.Add(PersonList.InputNewPersonFromUser(danhSach));
+                        danhSach.Add(danhSach.InputNewPersonFromUser());
                         break;
                     case 3:
                         danhSach.Remove(Console.ReadLine().ToUpper());

@@ -17,7 +17,7 @@ namespace _30_05_016_LTHDT_Case_Study_Using_ArrayList
         {
             list.Add(_person);
         }
-        public static Person InputNewPersonFromUser(PersonList _toThisList)
+        public Person InputNewPersonFromUser()
         {
 
             string _code;
@@ -25,9 +25,9 @@ namespace _30_05_016_LTHDT_Case_Study_Using_ArrayList
             {
                 Console.Write("New Code: ");
                 _code = Console.ReadLine().ToUpper();
-                if (_toThisList.FindPerson(_code) != null) Console.WriteLine("Code Existed");
+                if (FindPerson(_code) != null) Console.WriteLine("Code Existed");
 
-            } while (_toThisList.FindPerson(_code) != null);
+            } while (FindPerson(_code) != null);
             Console.Write("New Name: "); string _name = Console.ReadLine();
             int _age = -1;
 
