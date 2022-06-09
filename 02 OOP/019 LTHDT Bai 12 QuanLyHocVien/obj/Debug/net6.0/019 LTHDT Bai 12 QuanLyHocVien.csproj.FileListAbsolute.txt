@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\bin\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.exe
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\bin\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\bin\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\bin\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.dll
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\bin\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.pdb
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.dll
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\refint\019 LTHDT Bai 12 QuanLyHocVien.dll
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.pdb
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\019 LTHDT Bai 12 QuanLyHocVien.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\019 LTHDT Bai 12 QuanLyHocVien\obj\Debug\net6.0\ref\019 LTHDT Bai 12 QuanLyHocVien.dll

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _04_06_019_LTHDT_Bai_12_QuanLyHocVien
+build_property.ProjectDir = C:\Users\Pepsi\source\repos\02 OOP\04-06 019 LTHDT Bai 12 QuanLyHocVien - Copy\

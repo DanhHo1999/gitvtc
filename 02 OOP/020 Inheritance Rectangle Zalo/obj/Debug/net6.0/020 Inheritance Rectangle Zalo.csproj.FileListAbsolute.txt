@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\bin\Debug\net6.0\020 Inheritance Rectangle Zalo.exe
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\bin\Debug\net6.0\020 Inheritance Rectangle Zalo.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\bin\Debug\net6.0\020 Inheritance Rectangle Zalo.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\bin\Debug\net6.0\020 Inheritance Rectangle Zalo.dll
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\bin\Debug\net6.0\020 Inheritance Rectangle Zalo.pdb
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.dll
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\refint\020 Inheritance Rectangle Zalo.dll
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.pdb
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\020 Inheritance Rectangle Zalo.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\020 Inheritance Rectangle Zalo\obj\Debug\net6.0\ref\020 Inheritance Rectangle Zalo.dll

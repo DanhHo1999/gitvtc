@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "020 Inheritance Rectangle Zalo/1.0.0": {
+        "runtime": {
+          "020 Inheritance Rectangle Zalo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "020 Inheritance Rectangle Zalo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
