@@ -15,7 +15,8 @@ namespace _020_Inheritance_Rectangle_Zalo
             length = _length > 0 ? _length : 0;
             width = _width > 0 ? _width : 0;
         }
-        public virtual string toString() {
+        
+        public override string ToString() {
             return "["+getLength()+","+getWidth()+"]";
         }
         public int getLength() {return length;}
@@ -23,5 +24,6 @@ namespace _020_Inheritance_Rectangle_Zalo
         public void setLength(int length) {this.length = length;}
         public void setWidth(int width) {this.width = width;}
         public int area() { return length * width; }
+        
     }
 }

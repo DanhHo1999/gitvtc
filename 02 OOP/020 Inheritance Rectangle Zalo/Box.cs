@@ -13,9 +13,10 @@ namespace _020_Inheritance_Rectangle_Zalo
         public Box(int _length, int _width, int _height) : base(_length, _width) {
             height = _height > 0 ? _height : 0;
         }
+        
         public int getHeight() { return height; }
         public void SetHeight(int _height) { height = _height; }
-        public override string toString() {
+        public override string ToString() {
             return "[" + getLength() + "," + getWidth() + "," + getHeight() + "]";
         }
         public int area() {
