@@ -31,6 +31,7 @@ namespace _023_Point
                     return 0;
             }
         }
+        
 
         public Point(int x, int y) { this.x = x; this.y = y; }
 
