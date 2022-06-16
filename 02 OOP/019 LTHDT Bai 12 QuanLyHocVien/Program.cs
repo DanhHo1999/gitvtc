@@ -76,6 +76,7 @@
             AddStudenToCourse("NguyenVanD","CourseC");
             AddStudenToCourse("NguyenVanE","CourseC");
 
+            
 
             int action;
             do {
@@ -93,6 +94,9 @@
 
             } while (action >= 1 && action <= 3);
 
+            
+            
+            
         }
     }
 }

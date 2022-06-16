@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020 Inheritance Rectangle Z
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021 Inheritance Bai 1", "021 Inheritance Bai 1\021 Inheritance Bai 1.csproj", "{E7E9832B-57DF-4D76-BBE4-E60F6B118B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022 Catching Exceptions", "022 Catching Exceptions\022 Catching Exceptions.csproj", "{B4B7337C-B1FC-426E-9F3B-AA9DF74D5450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022 Catching Exceptions", "022 Catching Exceptions\022 Catching Exceptions.csproj", "{B4B7337C-B1FC-426E-9F3B-AA9DF74D5450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023 Point", "023 Point\023 Point.csproj", "{28BA12C2-EE61-4E93-A93D-0839EAF1E9A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{B4B7337C-B1FC-426E-9F3B-AA9DF74D5450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B7337C-B1FC-426E-9F3B-AA9DF74D5450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B7337C-B1FC-426E-9F3B-AA9DF74D5450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BA12C2-EE61-4E93-A93D-0839EAF1E9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BA12C2-EE61-4E93-A93D-0839EAF1E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BA12C2-EE61-4E93-A93D-0839EAF1E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BA12C2-EE61-4E93-A93D-0839EAF1E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
