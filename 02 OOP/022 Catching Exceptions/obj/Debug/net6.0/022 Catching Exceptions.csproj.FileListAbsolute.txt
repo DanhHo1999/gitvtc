@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\bin\Debug\net6.0\022 Catching Exceptions.exe
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\bin\Debug\net6.0\022 Catching Exceptions.deps.json
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\bin\Debug\net6.0\022 Catching Exceptions.runtimeconfig.json
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\bin\Debug\net6.0\022 Catching Exceptions.dll
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\bin\Debug\net6.0\022 Catching Exceptions.pdb
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.dll
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\refint\022 Catching Exceptions.dll
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.pdb
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\022 Catching Exceptions.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\02 OOP\022 Catching Exceptions\obj\Debug\net6.0\ref\022 Catching Exceptions.dll
