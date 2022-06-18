@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\bin\Debug\net6.0\04 Thi OOP.exe
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\bin\Debug\net6.0\04 Thi OOP.deps.json
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\bin\Debug\net6.0\04 Thi OOP.runtimeconfig.json
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\bin\Debug\net6.0\04 Thi OOP.dll
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\bin\Debug\net6.0\04 Thi OOP.pdb
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.dll
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\refint\04 Thi OOP.dll
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.pdb
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\04 Thi OOP.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\04 Thi OOP\04 Thi OOP\obj\Debug\net6.0\ref\04 Thi OOP.dll
