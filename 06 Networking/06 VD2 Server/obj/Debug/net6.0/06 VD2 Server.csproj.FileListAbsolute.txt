@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\bin\Debug\net6.0\06 VD2 Server.exe
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\bin\Debug\net6.0\06 VD2 Server.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\bin\Debug\net6.0\06 VD2 Server.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\bin\Debug\net6.0\06 VD2 Server.dll
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\bin\Debug\net6.0\06 VD2 Server.pdb
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.dll
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\refint\06 VD2 Server.dll
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.pdb
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\06 VD2 Server.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\06 VD2 Server\obj\Debug\net6.0\ref\06 VD2 Server.dll

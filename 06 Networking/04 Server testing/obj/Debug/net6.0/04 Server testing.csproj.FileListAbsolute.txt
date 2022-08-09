@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\bin\Debug\net6.0\04 Server testing.exe
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\bin\Debug\net6.0\04 Server testing.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\bin\Debug\net6.0\04 Server testing.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\bin\Debug\net6.0\04 Server testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\bin\Debug\net6.0\04 Server testing.pdb
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\refint\04 Server testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.pdb
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\04 Server testing.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\04 Server testing\obj\Debug\net6.0\ref\04 Server testing.dll

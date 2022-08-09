@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\bin\Debug\net6.0\01 Get Local Hostname.exe
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\bin\Debug\net6.0\01 Get Local Hostname.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\bin\Debug\net6.0\01 Get Local Hostname.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\bin\Debug\net6.0\01 Get Local Hostname.dll
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\bin\Debug\net6.0\01 Get Local Hostname.pdb
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.dll
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\refint\01 Get Local Hostname.dll
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.pdb
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\01 Get Local Hostname.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\01 Get Local Hostname\obj\Debug\net6.0\ref\01 Get Local Hostname.dll

@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\bin\Debug\net6.0\05 Client Testing.exe
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\bin\Debug\net6.0\05 Client Testing.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\bin\Debug\net6.0\05 Client Testing.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\bin\Debug\net6.0\05 Client Testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\bin\Debug\net6.0\05 Client Testing.pdb
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\refint\05 Client Testing.dll
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.pdb
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\05 Client Testing.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\05 Client Testing\obj\Debug\net6.0\ref\05 Client Testing.dll
