@@ -1,0 +1,26 @@
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Data\Desktop\DXApplication1_X\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -8,28 +8,19 @@ namespace _02_Server
     {
         static void Main(string[] args)
         {
-            //1.Create
-            IPAddress adr = IPAddress.Parse("127.0.0.1");
-            TcpListener listener = new TcpListener(adr, 8888);
-            Console.WriteLine("server is listening...");
-            listener.Start();
-            Socket socket = listener.AcceptSocket();
+            TcpListener tcpListener = new TcpListener(IPAddress.Parse("127.0.0.1"),8888);
+            tcpListener.Start();
+            Socket socket = tcpListener.Read
+
+            socket.Receive(new byte[1]); 
+            socket.Send(new byte[1] );
             
 
-            //2.Recieve 
-            byte[] data_storage = new byte[1024];
-            socket.Receive(data_storage);
-            string str = Encoding.ASCII.GetString(data_storage);
-            Console.WriteLine("Client name: \"" + str + "\"");
-
-            //3. Send
-            socket.Send(Encoding.ASCII.GetBytes("Hello, " + str));
-
-            //4. Close
-            Console.WriteLine("Server is closing...");
             socket.Close();
-            listener.Stop();
+            tcpListener.Stop();
 
+
+            // Create TCPlistener, accept socket, receive-send, close
         }
     }
 }

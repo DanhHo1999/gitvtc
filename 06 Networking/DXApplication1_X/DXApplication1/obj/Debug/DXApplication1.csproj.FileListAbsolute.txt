@@ -1,0 +1,80 @@
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.dll
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.pdb
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+F:\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.dll
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.pdb
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+F:\KI 2A NAM 3\THỰC TẬP CHUYÊN ĐỀ\CHUYENDE_CHUKIDIENTU\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\CNTT\Desktop\DOT_2\3.VietBinh_D_Xong\phần mềm\DXApplication1\DXApplication1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.csproj.AssemblyReference.cache
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.cache
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.csproj.CoreCompileInputs.cache
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.exe
+D:\Data\Desktop\DXApplication1_X\DXApplication1\obj\Debug\DXApplication1.pdb

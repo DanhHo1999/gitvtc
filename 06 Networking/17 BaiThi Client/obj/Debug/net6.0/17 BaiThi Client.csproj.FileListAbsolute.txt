@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\bin\Debug\net6.0\17 BaiThi Client.exe
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\bin\Debug\net6.0\17 BaiThi Client.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\bin\Debug\net6.0\17 BaiThi Client.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\bin\Debug\net6.0\17 BaiThi Client.dll
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\bin\Debug\net6.0\17 BaiThi Client.pdb
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.dll
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\refint\17 BaiThi Client.dll
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.pdb
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\17 BaiThi Client.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\17 BaiThi Client\obj\Debug\net6.0\ref\17 BaiThi Client.dll

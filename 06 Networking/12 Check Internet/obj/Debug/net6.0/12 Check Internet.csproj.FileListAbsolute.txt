@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\bin\Debug\net6.0\12 Check Internet.exe
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\bin\Debug\net6.0\12 Check Internet.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\bin\Debug\net6.0\12 Check Internet.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\bin\Debug\net6.0\12 Check Internet.dll
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\bin\Debug\net6.0\12 Check Internet.pdb
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.dll
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\refint\12 Check Internet.dll
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.pdb
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\12 Check Internet.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\12 Check Internet\obj\Debug\net6.0\ref\12 Check Internet.dll

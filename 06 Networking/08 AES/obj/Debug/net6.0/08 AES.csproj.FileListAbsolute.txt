@@ -1,0 +1,5 @@
+C:\Users\Pepsi\source\repos\06 Networking\08 AES\obj\Debug\net6.0\08 AES.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\08 AES\obj\Debug\net6.0\08 AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\08 AES\obj\Debug\net6.0\08 AES.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\08 AES\obj\Debug\net6.0\08 AES.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\08 AES\obj\Debug\net6.0\08 AES.csproj.CoreCompileInputs.cache
