@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\bin\Debug\net6.0\19 BaiThi Client Simple.exe
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\bin\Debug\net6.0\19 BaiThi Client Simple.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\bin\Debug\net6.0\19 BaiThi Client Simple.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\bin\Debug\net6.0\19 BaiThi Client Simple.dll
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\bin\Debug\net6.0\19 BaiThi Client Simple.pdb
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.dll
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\refint\19 BaiThi Client Simple.dll
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.pdb
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\19 BaiThi Client Simple.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\19 BaiThi Client Simple\obj\Debug\net6.0\ref\19 BaiThi Client Simple.dll

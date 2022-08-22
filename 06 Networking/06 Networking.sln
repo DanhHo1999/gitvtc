@@ -33,9 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 PTGET", "14 PTGET\14 PTG
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 PTPOST", "15 PTPOST\15 PTPOST.csproj", "{D5B90F51-EDA8-456B-A927-2003296A60FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 BaiThi Server", "16 BaiThi Server\16 BaiThi Server.csproj", "{7A91609F-9033-4643-9816-DA59A8FAECD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16 BaiThi Server", "16 BaiThi Server\16 BaiThi Server.csproj", "{7A91609F-9033-4643-9816-DA59A8FAECD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 BaiThi Client", "17 BaiThi Client\17 BaiThi Client.csproj", "{126931F3-EB05-4DB5-B762-3F03A3CE2634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 BaiThi Client", "17 BaiThi Client\17 BaiThi Client.csproj", "{126931F3-EB05-4DB5-B762-3F03A3CE2634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 BaiThi Server Simple", "18 BaiThi Server Simple\18 BaiThi Server Simple.csproj", "{1D4F110A-D44E-40BF-8179-435F5A6BFDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 BaiThi Client Simple", "19 BaiThi Client Simple\19 BaiThi Client Simple.csproj", "{56FCD185-36FA-455F-9740-DE3CB4DD7CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{126931F3-EB05-4DB5-B762-3F03A3CE2634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{126931F3-EB05-4DB5-B762-3F03A3CE2634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{126931F3-EB05-4DB5-B762-3F03A3CE2634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4F110A-D44E-40BF-8179-435F5A6BFDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4F110A-D44E-40BF-8179-435F5A6BFDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4F110A-D44E-40BF-8179-435F5A6BFDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4F110A-D44E-40BF-8179-435F5A6BFDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FCD185-36FA-455F-9740-DE3CB4DD7CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FCD185-36FA-455F-9740-DE3CB4DD7CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FCD185-36FA-455F-9740-DE3CB4DD7CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FCD185-36FA-455F-9740-DE3CB4DD7CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
