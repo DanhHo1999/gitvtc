@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\bin\Debug\net6.0\01 Server Test.exe
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\bin\Debug\net6.0\01 Server Test.deps.json
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\bin\Debug\net6.0\01 Server Test.runtimeconfig.json
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\bin\Debug\net6.0\01 Server Test.dll
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\bin\Debug\net6.0\01 Server Test.pdb
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.dll
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\refint\01 Server Test.dll
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.pdb
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\01 Server Test.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\07 Project\01 Server Test\obj\Debug\net6.0\ref\01 Server Test.dll

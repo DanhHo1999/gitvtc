@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\bin\Debug\net6.0\20 Server - Multiple Clients.exe
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\bin\Debug\net6.0\20 Server - Multiple Clients.deps.json
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\bin\Debug\net6.0\20 Server - Multiple Clients.runtimeconfig.json
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\bin\Debug\net6.0\20 Server - Multiple Clients.dll
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\bin\Debug\net6.0\20 Server - Multiple Clients.pdb
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.dll
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\refint\20 Server - Multiple Clients.dll
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.pdb
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\20 Server - Multiple Clients.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\06 Networking\20 Server - Multiple Clients\obj\Debug\net6.0\ref\20 Server - Multiple Clients.dll
