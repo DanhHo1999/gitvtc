@@ -20,19 +20,16 @@ namespace _20_Server___Multiple_Clients
         }
         static void StartClient(Socket client) {
             new Thread(() => {
-
-
                 //Start
-
+                
                 while (true)
                 {
                     Console.WriteLine("Client says: " + GetStringData(client));
                     SendStringData(client, "Hello");
                 }
 
+
                 //End
-
-
             }).Start();
         }
 
