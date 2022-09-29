@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\06 Networking",
+    "\\06 Networking\\20 Server - Multiple Clients",
     "\\07 Project",
     "\\07 Project\\02 Client Test 01"
   ],
-  "SelectedNode": "\\07 Project\\02 Client Test 01\\Form1.cs",
+  "SelectedNode": "\\06 Networking\\20 Server - Multiple Clients\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
