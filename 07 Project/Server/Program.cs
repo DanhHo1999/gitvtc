@@ -91,8 +91,8 @@ namespace Project
         static String GetStringData(Socket client)
         {
             byte[] bytes = new byte[1024];
-            client.Receive(bytes); Console.WriteLine("--received--");
-            return Encoding.UTF8.GetString(bytes); ;
+            int bytesNumber=client.Receive(bytes); Console.WriteLine("--received-- bytes length: "+bytes.Length);
+            return Encoding.UTF8.GetString(bytes).Substring(0,bytesNumber);
         }
         
         static void SendStringData(Socket client, String str)
