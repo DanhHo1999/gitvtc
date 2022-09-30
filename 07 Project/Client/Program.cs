@@ -10,6 +10,7 @@ namespace Project
         static List<Menu> menuList = new List<Menu>();
         static Socket client;
         static String tableName = "NoName";
+        static bool isClosed=false;
         static void Main(string[] args)
         {
             // Kết nối tới server
@@ -19,8 +20,10 @@ namespace Project
             SetTableName();
 
             menuList.Add(new Menu("Send Something", SendSomething));
+            menuList.Add(new Menu("Close Table", CloseTable));
+            
 
-            while (true)
+            while (!isClosed)
             {
                 GetAndDoAction();
             }
@@ -74,6 +77,11 @@ namespace Project
         {
             Console.Write("Message: ");
             Send(Console.ReadLine());
+        }
+        static void CloseTable() {
+            Console.WriteLine("Closing ...");
+            isClosed = true;
+            Send("CloseTable");
         }
         internal class Menu
         {

@@ -38,16 +38,18 @@ namespace Project
         }
         static void StartClient(Socket client)
         {
-            new Thread(() => {
+            Thread thread =new Thread(() => {
                 //Start
-                while (true)
+                bool isClosed=false;
+                while (!isClosed)
                 {
-
+                    
                     String receivedString;
                     try { receivedString = GetStringData(client); }
                     catch (SocketException)
                     {
                         Console.WriteLine("Table " + GetTable(client).name + " Closed");
+                        
                         return;
                     }
                     String command = (receivedString.Split(":"))[0]; String receivedData = "";
@@ -59,17 +61,24 @@ namespace Project
                         case "SetTableName":
                             SetTableName(GetTable(client), receivedData);
                             break;
-
+                        case "CloseTable":
+                            isClosed = true;
+                            Console.WriteLine("table " + GetTable(client).name + " closed");
+                            client.Close();
+                            break;
                         default:
                             NotifyClientMessage(GetTable(client), receivedString);
                             break;
                     }
-
+                    
                 }
+                
 
 
                 //End
-            }).Start();
+            });
+            thread.Start();
+            
         }
 
 
@@ -85,6 +94,7 @@ namespace Project
             client.Receive(bytes); Console.WriteLine("--received--");
             return Encoding.UTF8.GetString(bytes); ;
         }
+        
         static void SendStringData(Socket client, String str)
         {
             byte[] bytes = new byte[1024];
@@ -112,6 +122,6 @@ namespace Project
             }
             return null;
         }
-
+        
     }
 }

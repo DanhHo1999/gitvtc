@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\07 Project\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Pepsi\source\repos\07 Project\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Pepsi\source\repos\07 Project\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Pepsi\source\repos\07 Project\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Pepsi\source\repos\07 Project\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\07 Project\Server\obj\Debug\net6.0\ref\Server.dll
