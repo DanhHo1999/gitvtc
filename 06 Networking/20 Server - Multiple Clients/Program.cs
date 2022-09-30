@@ -10,10 +10,10 @@ namespace _20_Server___Multiple_Clients
         {
             public Socket socket;
             public String name;
-            public Table(Socket _tableSocket, String _name) { 
+            public Table(Socket _tableSocket, String _name) {
                 socket = _tableSocket;
                 name = _name;
-                Console.WriteLine("New Table Connecting");
+                Console.WriteLine("New NoName Table Connecting");
                 StartClient(socket);
             }
         }
@@ -21,7 +21,7 @@ namespace _20_Server___Multiple_Clients
         static List<Table> tables = new List<Table>();
         static void Main(string[] args)
         {
-            //Tạo kết nối và kết nối với client
+
             IPEndPoint iep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8888);
             Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             server.Bind(iep);
@@ -30,33 +30,34 @@ namespace _20_Server___Multiple_Clients
             new Thread(() => {
                 Console.WriteLine("Ready");
                 while (true)
-                    tables.Add(new Table(server.Accept(), " "));
+                    tables.Add(new Table(server.Accept(), "NoName"));
             }).Start();
-            
+
 
         }
         static void StartClient(Socket client) {
             new Thread(() => {
                 //Start
-                SetTableName(client, "NoName");
                 while (true)
                 {
 
-                    String dataFromClient="";
-                    try { dataFromClient = GetStringData(client); } catch (SocketException) {
-                        Console.WriteLine("Table "+GetTable(client).name+" Closed");
-                        return; }
-                    Console.WriteLine("Table " + GetTable(client).name + " sent: \"" + dataFromClient+ "\"");
-                    String command = (dataFromClient.Split(":"))[0];
+                    String receivedString;
+                    try { receivedString = GetStringData(client); }
+                    catch (SocketException) {
+                        Console.WriteLine("Table " + GetTable(client).name + " Closed");
+                        return;
+                    }
+                    String command = (receivedString.Split(":"))[0];String receivedData="";
+                    try { receivedData = (receivedString.Split(":"))[1]; } catch (Exception) { }
 
                     switch (command) {
 
                         case "SetTableName":
-                            SetTableName(client, (dataFromClient.Split(":"))[1]);
-                            Console.WriteLine("Table new name: "+ (dataFromClient.Split(":"))[1]);
+                            SetTableName(GetTable(client), receivedData);
                             break;
 
                         default:
+                            NotifyClientMessage(GetTable(client), receivedString);
                             break;
                     }
 
@@ -70,10 +71,12 @@ namespace _20_Server___Multiple_Clients
 
 
 
-
+        static void NotifyClientMessage(Table _table,String _message) {
+            Console.WriteLine("[Table "+_table.name+"]: \""+_message+"\"");
+        }
         static String GetStringData(Socket client) {
             byte[] bytes = new byte[1024];
-            client.Receive(bytes);
+            client.Receive(bytes); Console.WriteLine("--received--");
             return Encoding.UTF8.GetString(bytes); ;
         }
         static void SendStringData(Socket client,String str) {
@@ -81,10 +84,10 @@ namespace _20_Server___Multiple_Clients
             bytes = Encoding.UTF8.GetBytes(str);
             client.Send(bytes, bytes.Length, SocketFlags.None);
         }
-        static void SetTableName(Socket _tableSocket,String _name) {
-            foreach (Table table in tables) {
-                if (table.socket == _tableSocket) { table.name = _name; break; }
-            }
+        static void SetTableName(Table _table, String _name)
+        {
+            Console.WriteLine("Table " + _table.name + " changed name to " + _name);
+            _table.name = _name;
         }
         static Table GetTable(String _name) {
             foreach (Table table in tables) {

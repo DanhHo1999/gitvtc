@@ -16,9 +16,10 @@ namespace BaiThi
             IPEndPoint iep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8888);
             client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             client.Connect(iep);
+            SetTableName();
 
-            menuList.Add(new Menu("Set Table Name", SetTableName));
-
+            menuList.Add(new Menu("Send Something", SendSomething));
+            
             while (true)
             {
                 GetAndDoAction();
@@ -35,10 +36,7 @@ namespace BaiThi
                     Console.WriteLine("Choose: ");
                     action = Convert.ToInt32(Console.ReadLine());
                 }
-                catch (Exception)
-                {
-                    Console.WriteLine("failed");
-                }
+                catch (Exception) { }
             } while (action < 1 || action > menuList.Count);
             menuList[action-1].voidName.DynamicInvoke();
         }
@@ -65,6 +63,10 @@ namespace BaiThi
             tableName = Console.ReadLine();
             Send("SetTableName:" + tableName);
             
+        }
+        static void SendSomething() {
+            Console.Write("Message: ");
+            Send(Console.ReadLine());
         }
         internal class Menu
         {
