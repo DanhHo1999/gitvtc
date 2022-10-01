@@ -16,6 +16,7 @@ namespace Project
                 name = _name;
                 Console.WriteLine("New NoName Table Connecting");
                 StartClient(socket);
+                
             }
         }
 
@@ -27,9 +28,10 @@ namespace Project
             Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             server.Bind(iep);
             server.Listen(99);
-
+            
             new Thread(() => {
                 Console.WriteLine("Ready");
+                
                 while (true)
                     tables.Add(new Table(server.Accept(), "NoName"));
             }).Start();
@@ -43,7 +45,7 @@ namespace Project
                 bool isClosed=false;
                 while (!isClosed)
                 {
-                    
+                    if(!client.Connected)isClosed=true;
                     String receivedString;
                     try { receivedString = GetStringData(client); }
                     catch (SocketException)
@@ -63,7 +65,7 @@ namespace Project
                             break;
                         case "CloseTable":
                             isClosed = true;
-                            Console.WriteLine("table " + GetTable(client).name + " closed");
+                            Console.WriteLine("Table " + GetTable(client).name + " closed");
                             client.Close();
                             break;
                         default:
@@ -91,7 +93,8 @@ namespace Project
         static String GetStringData(Socket client)
         {
             byte[] bytes = new byte[1024];
-            int bytesNumber=client.Receive(bytes); Console.WriteLine("--received-- bytes length: "+bytes.Length);
+            int bytesNumber=client.Receive(bytes);
+            Console.WriteLine("--Received--"+(bytesNumber==0?"no byte":""));
             return Encoding.UTF8.GetString(bytes).Substring(0,bytesNumber);
         }
         
@@ -111,6 +114,7 @@ namespace Project
             foreach (Table table in tables)
             {
                 if (table.name.Equals(_name)) return table;
+                
             }
             return null;
         }

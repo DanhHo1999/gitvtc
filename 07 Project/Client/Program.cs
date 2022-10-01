@@ -8,52 +8,97 @@ namespace Project
     {
 
         static List<Menu> menuList = new List<Menu>();
-        static Socket client;
+        static Socket server;
         static String tableName = "NoName";
         static bool isClosed=false;
+        static int action = 1;
+        static List<Notification> notificationsList=new List<Notification>();
+
+        static int notificationTimer = 10;
+
         static void Main(string[] args)
         {
             // Kết nối tới server
             IPEndPoint iep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 8888);
-            client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            client.Connect(iep);
-            SetTableName();
+            server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            server.Connect(iep);
 
+
+            SetTableName(1);
             menuList.Add(new Menu("Send Something", SendSomething));
+            menuList.Add(new Menu("Order Food", OrderFood));
             menuList.Add(new Menu("Close Table", CloseTable));
-            
+            menuList.Add(new Menu("Tinh Tong", TinhTong));
 
-            while (!isClosed)
-            {
-                GetAndDoAction();
+
+
+            PrintScreen(action);
+            while (!isClosed) PrintScreen(GetActionByKeyInput());
+        }
+        internal class Notification {
+            internal String message;
+            internal int timer;
+            public Notification(String _msg, int _timer) { 
+                message = _msg;
+                timer = _timer;
             }
         }
-        static void GetAndDoAction()
-        {
+        
+        static int GetActionByKeyInput() {
+            int maxAction = menuList.Count;
+            ConsoleKeyInfo key = Console.ReadKey();
+            switch (key.Key) {
+                case ConsoleKey.DownArrow:
+                    Console.WriteLine("Down");
+                    if (action == maxAction) action = 1; else action++;
+                    break;
+                case ConsoleKey.UpArrow:
+                    Console.WriteLine("Up");
+                    if (action == 1) action = maxAction; else action--;
+                    break;
+                case ConsoleKey.Enter:
+                    DoAction(action);break;
+                default:break;
+            }
+            return action;
+        }
+        static void PrintNotify() {
+            Notification toBeDeleted=null;
+            foreach (Notification notification in notificationsList) {
+                notification.timer--;
+                Console.WriteLine(notification.message);
+                if (notification.timer == 0)toBeDeleted = notification;
+            }
+            if(toBeDeleted != null) notificationsList.Remove(toBeDeleted);
 
-            int action = 0;
-            do
-            {
-                try
-                {
-                    PrintMenuList();
-                    Console.WriteLine("Choose: ");
-                    action = Convert.ToInt32(Console.ReadLine());
-                }
-                catch (Exception) { }
-            } while (action < 1 || action > menuList.Count);
-            menuList[action - 1].voidName.DynamicInvoke();
+        }
+        static void PrintScreen(int _action) {
+            SkipScreen(Console.WindowHeight);
+            PrintNotify();
+            Console.WriteLine("=========================");
+            Console.WriteLine("Table: " + tableName);
+            
+            for (int i = 0; i < menuList.Count; i++) {
+                if (_action-1 == i) Console.Write("--> ");
+                Console.WriteLine(i + 1 + ". " + menuList[i].menuName);
+            }
+            
+        }
+        
+        static void DoAction(int _action)
+        {
+            menuList[_action - 1].voidName.DynamicInvoke();
         }
         static void Send(String str)
         {
             byte[] bytes = new byte[1024];
             bytes = Encoding.UTF8.GetBytes(str);
-            client.Send(bytes, bytes.Length, SocketFlags.None);
+            server.Send(bytes, bytes.Length, SocketFlags.None);
         }
         static String ReceivedString()
         {
             byte[] bytes = new byte[1024];
-            client.Receive(bytes);
+            server.Receive(bytes);
             return Encoding.UTF8.GetString(bytes);
 
         }
@@ -73,15 +118,43 @@ namespace Project
             Send("SetTableName:" + tableName);
 
         }
+        static void SetTableName(int _a)
+        {
+            Console.Write("New Table Name: ");
+            tableName = _a.ToString();
+            Console.WriteLine(_a);
+            Send("SetTableName:" + tableName);
+
+        }
         static void SendSomething()
         {
             Console.Write("Message: ");
-            Send(Console.ReadLine());
+            String str = Console.ReadLine();
+            Send(str);
+            if(str.Length!=0)AddMessage("Message \""+ str+"\" sent");
+
         }
         static void CloseTable() {
-            Console.WriteLine("Closing ...");
+            Console.WriteLine("Close this table.");
             isClosed = true;
             Send("CloseTable");
+        }
+        static void SkipScreen(int _rows) {
+            for (int i = 0; i < _rows; i++) {
+                Console.WriteLine();
+            }
+        }
+        static void OrderFood() { 
+            
+        }
+        static void TinhTong() {
+            Console.Write("A=");int a = Convert.ToInt16(Console.ReadLine());
+            Console.Write("B=");int b = Convert.ToInt16(Console.ReadLine());
+            AddMessage("A+B=" + (a + b));
+
+        }
+        static void AddMessage(String _msg) {
+            notificationsList.Add(new Notification(_msg, notificationTimer));
         }
         internal class Menu
         {
