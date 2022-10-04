@@ -1,0 +1,15 @@
+C:\Users\Pepsi\source\repos\07 Project\Cook\bin\Debug\net6.0\Cook.exe
+C:\Users\Pepsi\source\repos\07 Project\Cook\bin\Debug\net6.0\Cook.deps.json
+C:\Users\Pepsi\source\repos\07 Project\Cook\bin\Debug\net6.0\Cook.runtimeconfig.json
+C:\Users\Pepsi\source\repos\07 Project\Cook\bin\Debug\net6.0\Cook.dll
+C:\Users\Pepsi\source\repos\07 Project\Cook\bin\Debug\net6.0\Cook.pdb
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.dll
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\refint\Cook.dll
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.pdb
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\Cook.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\07 Project\Cook\obj\Debug\net6.0\ref\Cook.dll
