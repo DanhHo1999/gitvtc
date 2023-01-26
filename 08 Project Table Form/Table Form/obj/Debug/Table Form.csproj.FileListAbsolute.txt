@@ -1,0 +1,36 @@
+C:\Users\Pepsi\source\repos\07 Project\Table Form\bin\Debug\Table Form.exe.config
+C:\Users\Pepsi\source\repos\07 Project\Table Form\bin\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\07 Project\Table Form\bin\Debug\Table Form.pdb
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table_Form.Properties.Resources.resources
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.csproj.GenerateResource.cache
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table Form.pdb
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table_Form.Form1.resources
+C:\Users\Pepsi\source\repos\07 Project\Table Form\obj\Debug\Table_Form.BillForm.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\bin\Debug\Table Form.exe.config
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\bin\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\bin\Debug\Table Form.pdb
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table_Form.BillForm.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table_Form.Form1.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table_Form.Properties.Resources.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.csproj.GenerateResource.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\08 Project Table Form\Table Form\obj\Debug\Table Form.pdb
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\bin\Debug\Table Form.exe.config
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\bin\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\bin\Debug\Table Form.pdb
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table_Form.BillForm.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table_Form.Form1.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table_Form.Properties.Resources.resources
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.csproj.GenerateResource.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.exe
+C:\Users\Pepsi\source\repos\08 Project Table Form - Backup\Table Form\obj\Debug\Table Form.pdb
