@@ -1,0 +1,52 @@
+[ 00:00:36 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 00:01:37 ] - [ taikhoan2 - Quản lý ]: Đăng nhập
+[ 00:01:44 ] - [ taikhoan2 - Quản lý ]: Đăng xuất
+[ 00:01:49 ] - [ taikhoan2 - Quản lý ]: Đăng nhập
+[ 00:02:04 ] - [ taikhoan2 - Quản lý ]: Đăng xuất
+[ 00:02:24 ] - [ taikhoan3 - Nhân viên ]: Đăng nhập
+[ 00:02:33 ] - [ taikhoan3 - Nhân viên ]: Đăng xuất
+[ 00:02:38 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 00:02:56 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 00:02:58 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 00:05:40 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 07:26:31 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 07:26:35 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 07:26:45 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 07:32:04 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 07:33:51 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 07:34:50 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 07:35:17 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 07:35:59 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 09:29:44 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 09:30:02 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 09:44:36 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 09:51:58 ] - [ taikhoan1 - Admin ]: Khóa tài khoản danhho
+[ 09:52:00 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 09:52:04 ] - [ danhho - Nhân viên ]: Đăng nhập
+[ 09:52:08 ] - [ danhho - Nhân viên ]: Đăng xuất
+[ 09:52:45 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 09:52:51 ] - [ taikhoan1 - Admin ]: Kích hoạt tài khoản danhho
+[ 09:52:52 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 09:52:55 ] - [ danhho - Nhân viên ]: Đăng nhập
+[ 09:52:57 ] - [ danhho - Nhân viên ]: Đăng xuất
+[ 09:53:00 ] - [ taikhoan2 - Quản lý ]: Đăng nhập
+[ 09:53:10 ] - [ taikhoan2 - Quản lý ]: Đăng xuất
+[ 10:43:41 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 10:43:42 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 10:50:00 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 10:50:01 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 10:50:49 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 10:50:52 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 10:51:03 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 12:00:16 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 12:00:22 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 12:00:29 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 12:00:33 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 12:00:36 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 12:00:36 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 12:09:21 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 12:09:26 ] - [ taikhoan1 - Admin ]: Khởi động Server
+[ 12:09:37 ] - [ taikhoan1 - Admin ]: Đăng xuất
+[ 12:09:44 ] - [ taikhoan1 - Admin ]: Đăng nhập
+[ 12:09:45 ] - [ taikhoan1 - Admin ]: Ngừng hoạt động Server
+[ 12:09:46 ] - [ taikhoan1 - Admin ]: Đăng xuất
