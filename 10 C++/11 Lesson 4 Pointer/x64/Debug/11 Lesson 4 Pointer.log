@@ -1,0 +1,4 @@
+﻿  11 Lesson 4 Pointer.cpp
+C:\Users\Pepsi\source\repos\10 C++\11 Lesson 4 Pointer\11 Lesson 4 Pointer.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Pepsi\source\repos\10 C++\11 Lesson 4 Pointer\11 Lesson 4 Pointer.cpp(18): warning C4172: returning address of local variable or temporary: r
+  11 Lesson 4 Pointer.vcxproj -> C:\Users\Pepsi\source\repos\10 C++\x64\Debug\11 Lesson 4 Pointer.exe

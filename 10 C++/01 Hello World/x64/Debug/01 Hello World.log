@@ -1,2 +1,6 @@
 ﻿  01 Hello World.cpp
-  01 Hello World.vcxproj -> C:\Users\Pepsi\source\repos\10 C++\x64\Debug\01 Hello World.exe
+  Blank.cpp
+  Generating Code...
+  LINK : C:\Users\Pepsi\source\repos\10 C++\x64\Debug\01 Hello World.exe not found or not built by the last incremental link; performing full link
+Blank.obj : error LNK2005: main already defined in 01 Hello World.obj
+C:\Users\Pepsi\source\repos\10 C++\x64\Debug\01 Hello World.exe : fatal error LNK1169: one or more multiply defined symbols found

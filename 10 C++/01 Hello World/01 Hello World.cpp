@@ -26,7 +26,4 @@ int main()
     cin >> x;
     cout << "X = " << x << endl;
 
-
-
-    
 }
