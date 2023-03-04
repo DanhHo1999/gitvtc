@@ -119,7 +119,7 @@ namespace _06_LINQ
             Console.WriteLine(myStuffs.SingleOrDefault((x) => { return false; })?.ToString());
             Console.WriteLine(string.Join("\n\n", myBrands)); ;
 
-            var query3 = from p in myStuffs
+            IOrderedEnumerable<IGrouping<int, MyStuff>> query3 = from p in myStuffs
                          group p by p.Brand into gr
                          orderby gr.Key
                          select gr;
