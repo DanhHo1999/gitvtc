@@ -81,7 +81,7 @@ namespace _06_LINQ
 
             var sum= query.Sum((m) => { return null; });
 
-            var normalJoinedList = query.Join(myBrands, x => { return x.Brand; }, x => { return x.id; },
+            var normalJoinedList = myStuffs.Join(myBrands, x => { return x.Brand; }, x => { return x.id; },
                 (m, b) => {
                     return new {m.Name,b.name };
                 }
@@ -115,8 +115,18 @@ namespace _06_LINQ
                 Console.WriteLine($"Child Group Name:{MyBrand.GetName(myBrands,x.Key)}");
                 x.ToList().ForEach((y) => { Console.WriteLine($"{y.Name} - {y.Brand}"); });
             });
+            
+            Console.WriteLine(myStuffs.SingleOrDefault((x) => { return false; })?.ToString());
+            Console.WriteLine(string.Join("\n\n", myBrands)); ;
 
-
+            var query3 = from p in myStuffs
+                         group p by p.Brand into gr
+                         orderby gr.Key
+                         select gr;
+            query3.ToList().ForEach(group => { Console.WriteLine($"Brand: {MyBrand.GetName(myBrands,group.Key)}\nSL:{group.Count()}");
+                group.ToList().ForEach(mystuff => { Console.WriteLine(mystuff.ToString()); });
+            });
+            
             Console.Write("DONE"); Console.Read();
 
 
