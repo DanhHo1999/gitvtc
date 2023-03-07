@@ -18,3 +18,15 @@ C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Mic
 C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.csproj.CopyComplete
 C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

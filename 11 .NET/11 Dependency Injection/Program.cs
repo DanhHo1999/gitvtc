@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 
 namespace _11_Dependency_Injection
@@ -184,6 +185,9 @@ namespace _11_Dependency_Injection
 
 
 
+
+
+
             //ServiceCollection services = new ServiceCollection();
 
             ////Dang ky cac dich vu...
@@ -209,21 +213,23 @@ namespace _11_Dependency_Injection
 
 
 
-            ServiceCollection services = new ServiceCollection();
-            ServiceProvider provider;
 
-            //services.AddSingleton<IClassB>(ClassB2.CreateB2("Created in Custom Delegate"));
-            //services.AddSingleton<IClassB>(ClassB2.CreateB2);
-            services.AddSingleton<IClassB, ClassB2>();
+            //ServiceCollection services = new ServiceCollection();
+            //ServiceProvider provider;
 
-            services.AddSingleton<ClassA, ClassA>();
-            services.AddSingleton<IClassC, ClassC2>();
-            services.Configure<ClassC2StringOption>(x=>x.stringValue="Configured Message");
-            services.Configure<ClassB2StringOption>(x=>x.stringValue="Created in Normal way");
-            provider = services.BuildServiceProvider();
+            //////services.AddSingleton<IClassB>(ClassB2.CreateB2("Created in Custom Delegate"));
+            //////services.AddSingleton<IClassB>(ClassB2.CreateB2);
+            //services.AddSingleton<IClassB, ClassB2>();
 
-            ClassA objectA = provider.GetService<ClassA>();
-            objectA.ActionA();
+            //services.AddSingleton<ClassA, ClassA>();
+            //services.AddSingleton<IClassC, ClassC2>();
+            //services.Configure<ClassC2StringOption>(x=>x.stringValue="Configured Message");
+            //services.Configure<ClassB2StringOption>(x=>x.stringValue="Created in Normal way");
+            //provider = services.BuildServiceProvider();
+
+            //ClassA objectA = provider.GetService<ClassA>();
+            //objectA.ActionA();
+
 
 
 
@@ -238,6 +244,32 @@ namespace _11_Dependency_Injection
             //ServiceProvider provider = services.BuildServiceProvider();
             //MyService myService = provider.GetService<MyService>();
             //myService.PrintData();
+
+
+
+
+
+
+
+            IConfigurationRoot configurationRoot;
+            ConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
+            configurationBuilder.SetBasePath(Directory.GetCurrentDirectory());
+            configurationBuilder.AddJsonFile("configuration.json");
+            configurationRoot = configurationBuilder.Build();
+            //IConfigurationSection key1 =  configurationRoot.GetSection("section1").GetSection("key1");
+            // Console.WriteLine(key1.Value);
+            //string data1 = configurationRoot.GetSection("MyServiceOption").GetSection("data1").Value;
+            //Console.WriteLine(data1);
+            ServiceCollection services = new ServiceCollection();
+            services.AddSingleton<MyService>();
+            services.Configure<MyServiceOptions>(
+                configurationRoot.GetSection("MyServiceOption")
+                );
+
+            ServiceProvider provider = services.BuildServiceProvider();
+            MyService myService = provider.GetService<MyService>();
+            myService.PrintData();
+
         }
     }
 }

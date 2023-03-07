@@ -1,0 +1,11 @@
+{
+  "section1": {
+    "key1": "valueSection1",
+    "key2": 111
+  },
+
+  "MyServiceOption": {
+    "data1": "Hoc Dependency Injection",
+    "data2": 12345
+  }
+}
