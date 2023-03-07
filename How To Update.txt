@@ -1,0 +1,12 @@
+git add .
+git reset --hard
+git pull origin main
+
+
+
+----First Time----
+Tạo 1 folder, git bash here trong folder
+git init
+git remote add origin https://github.com/DanhHo1999/gitvtc
+
+

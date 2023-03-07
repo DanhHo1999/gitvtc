@@ -17,6 +17,10 @@ namespace _06_LINQ
             Name= _name;
             Price= _price;
             Brand= _brand;
+        }public MyStuff(int _id, string _name, double _price) { 
+            id= _id;
+            Name= _name;
+            Price= _price;
         }
         public override string ToString() {
             return $"ID:{id,2}  |Name:{Name,20}  |Price:{Price,10}";
@@ -55,13 +59,13 @@ namespace _06_LINQ
             var myStuffs = new List<MyStuff>()
             {
                 new MyStuff(1,"AAA",100,1),
-                new MyStuff(2,"BBB",400,3),
+                new MyStuff(2,"BBB",400),
                 new MyStuff(3,"CCC",800,2),
                 new MyStuff(4,"ADD",1200,2),
                 new MyStuff(5,"EEE",300,1),
                 new MyStuff(6,"FFF",120,2),
-                new MyStuff(7,"GGA",50,3),
-                new MyStuff(8,"HHA",10,3),
+                new MyStuff(7,"GGA",50,4),
+                new MyStuff(8,"HHA",10),
             };
             Console.WriteLine(myStuffs[0]);
             IEnumerable<MyStuff> query = 
@@ -112,7 +116,7 @@ namespace _06_LINQ
                 .Distinct(new MyStupidComparer())
                 .ToList().ForEach
                 (x => {
-                Console.WriteLine($"Child Group Name:{MyBrand.GetName(myBrands,x.Key)}");
+                //Console.WriteLine($"Child Group Name:{MyBrand.GetName(myBrands,x.Key)}");
                 x.ToList().ForEach((y) => { Console.WriteLine($"{y.Name} - {y.Brand}"); });
             });
             
@@ -123,13 +127,35 @@ namespace _06_LINQ
                          group p by p.Brand into gr
                          orderby gr.Key
                          select gr;
-            query3.ToList().ForEach(group => { Console.WriteLine($"Brand: {MyBrand.GetName(myBrands,group.Key)}\nSL:{group.Count()}");
+            query3.ToList().ForEach(group => { Console.WriteLine($"Brand: {""}\nSL:{group.Count()}");
                 group.ToList().ForEach(mystuff => { Console.WriteLine(mystuff.ToString()); });
             });
             
+            var query4=from p in myStuffs select p;
+            Console.WriteLine("\nquery4");
+            var kq4 = query4.Join(myBrands, x => x.Brand, x => x.id,
+                (stuff, brand) => { return new { ten = stuff.Name, gia = stuff.Price, thuonghieu = brand.name }; }
+                );
+            var kq5 = from stuff in myStuffs
+                      join   brand in myBrands on stuff.Brand equals brand.id
+                      orderby brand.id
+                      select new { ten = stuff.Name, gia = stuff.Price, thuonghieu = brand.name };
+            
+            var kq4a=kq4.OrderBy(x => x.thuonghieu);
+            Console.WriteLine("kq4");
+            kq4.ToList().ForEach(x => { Console.WriteLine(x.ToString()); });
+            Console.WriteLine("kq4a");
+            kq4a.ToList().ForEach(x => { Console.WriteLine(x.ToString()); });
+            Console.WriteLine("kq5");
+            kq5.ToList().ForEach(x => { Console.WriteLine(x.ToString()); });
+            var kq6= from stuff in myStuffs
+                     join brand in myBrands on stuff.Brand equals brand.id 
+                     into newTable from brand in newTable.DefaultIfEmpty()
+                     select new { ten = stuff.Name, gia = stuff.Price, brand?.id };
+            Console.WriteLine("kq6");
+            kq6.ToList().ForEach(x => { Console.WriteLine(x.ToString()); });
+
             Console.Write("DONE"); Console.Read();
-
-
         }
     }
 

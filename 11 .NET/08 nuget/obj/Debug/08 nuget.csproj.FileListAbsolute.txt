@@ -1,0 +1,11 @@
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\bin\Debug\08 nuget.exe.config
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\bin\Debug\08 nuget.exe
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\bin\Debug\08 nuget.pdb
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.exe
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.pdb
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pepsi\source\repos\11 .NET\08 nuget\obj\Debug\08 nuget.csproj.CopyComplete

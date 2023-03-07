@@ -1,0 +1,20 @@
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\11 Dependency Injection.exe
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\11 Dependency Injection.deps.json
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\11 Dependency Injection.runtimeconfig.json
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\11 Dependency Injection.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\11 Dependency Injection.pdb
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\refint\11 Dependency Injection.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.pdb
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\ref\11 Dependency Injection.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\obj\Debug\net6.0\11 Dependency Injection.csproj.CopyComplete
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Pepsi\source\repos\11 .NET\11 Dependency Injection\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

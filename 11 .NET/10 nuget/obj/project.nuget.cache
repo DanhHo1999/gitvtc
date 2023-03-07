@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZgY9utVoG4o+d9o1cE5Yq7grF6cWH8V00A5oVtl2G6G3IVFZQ+SDmmK5diTa2xUIxS9BYEuX7XO37901BDVuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pepsi\\source\\repos\\11 .NET\\10 nuget\\10 nuget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pepsi\\.nuget\\packages\\myclasslibutil\\1.0.1\\myclasslibutil.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

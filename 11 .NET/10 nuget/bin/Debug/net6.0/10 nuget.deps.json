@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "10 nuget/1.0.0": {
+        "dependencies": {
+          "MyClassLibUtil": "1.0.1"
+        },
+        "runtime": {
+          "10 nuget.dll": {}
+        }
+      },
+      "MyClassLibUtil/1.0.1": {
+        "runtime": {
+          "lib/net6.0/MyClassLibUtil.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10 nuget/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyClassLibUtil/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KPmLvJ9xxZSBunIt6iJTe6WWBJQaREbxx0pdBfxhUqps4ztHGUPMnwkyom5UvA/OGitFBmDEwuYCTAkkNS0bAw==",
+      "path": "myclasslibutil/1.0.1",
+      "hashPath": "myclasslibutil.1.0.1.nupkg.sha512"
+    }
+  }
+}

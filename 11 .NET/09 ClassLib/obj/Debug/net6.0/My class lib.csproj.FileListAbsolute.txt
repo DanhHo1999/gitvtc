@@ -1,0 +1,12 @@
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\My class lib.deps.json
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\My class lib.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\My class lib.pdb
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\refint\My class lib.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\My class lib.pdb
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\ref\My class lib.dll

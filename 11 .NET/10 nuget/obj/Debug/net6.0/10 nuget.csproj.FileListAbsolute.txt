@@ -1,0 +1,17 @@
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\10 nuget.exe
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\10 nuget.deps.json
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\10 nuget.runtimeconfig.json
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\10 nuget.dll
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\10 nuget.pdb
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\bin\Debug\net6.0\MyClassLibUtil.dll
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.csproj.CopyComplete
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.dll
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\refint\10 nuget.dll
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.pdb
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\10 nuget.genruntimeconfig.cache
+C:\Users\Pepsi\source\repos\11 .NET\10 nuget\obj\Debug\net6.0\ref\10 nuget.dll

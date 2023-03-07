@@ -1,0 +1,12 @@
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\MyClassLibUtil.deps.json
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\MyClassLibUtil.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\bin\Debug\net6.0\MyClassLibUtil.pdb
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.csproj.AssemblyReference.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.AssemblyInfoInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.AssemblyInfo.cs
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.csproj.CoreCompileInputs.cache
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\refint\MyClassLibUtil.dll
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\MyClassLibUtil.pdb
+C:\Users\Pepsi\source\repos\11 .NET\09 ClassLib\obj\Debug\net6.0\ref\MyClassLibUtil.dll
